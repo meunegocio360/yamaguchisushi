@@ -94,6 +94,7 @@ HTMLText_1830E20E_17B1_6AC3_419B_A422A7600CB2_mobile.html = <div style="text-ali
 ## Tour
 
 ### Description
+tour.description =  R. Dr. Fláquer, 535 - Centro, São Bernardo do Campo - SP
 
 ### Title
-tour.name = Sem Título 252
+tour.name = Yamaguchi Sushi - Tour Virtual 360°
