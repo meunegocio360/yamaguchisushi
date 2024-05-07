@@ -1,9 +1,8 @@
 {
- "display": "fullscreen",
  "start_url": "index.htm",
- "background_color": "#000000",
- "name": "Yamaguchi Sushi - Tour Virtual 360°",
+ "display": "fullscreen",
  "theme_color": "#000000",
+ "name": "Yamaguchi Sushi - Tour Virtual 360°",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +40,6 @@
    "sizes": "64x64"
   }
  ],
+ "background_color": "#000000",
  "description": " R. Dr. Fláquer, 535 - Centro, São Bernardo do Campo - SP"
 }
